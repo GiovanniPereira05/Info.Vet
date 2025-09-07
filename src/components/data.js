@@ -1,50 +1,52 @@
+import imagem1 from "../assets/placeholderdataset.png"
+
 export const datasets = [
     {
       id: 1,
       nome: "Criptococose no Brasil em 2025",
-      imagem: "./src/assets/placeholderdataset.png",
+      imagem: imagem1,
       descricao: "Criptococose no Brasil em 2025"
     },
     {
       id: 2,
       nome: "Dataset de Gatos",
-      imagem: "./src/assets/placeholderdataset.png",
+      imagem: imagem1,
       descricao: "Informações sobre saúde felina."
     },
     {
       id: 3,
       nome: "Dataset de Aves",
-      imagem: "./src/assets/placeholderdataset.png",
+      imagem: imagem1,
       descricao: "Dados sobre espécies e alimentação."
     },
     {
       id: 4,
       nome: "Vacinação em Cães 2024",
-      imagem: "./src/assets/placeholderdataset.png",
+      imagem: imagem1,
       descricao: "Dados sobre campanhas de vacinação em cães."
     },
     {
       id: 5,
       nome: "Doenças Bovina",
-      imagem: "./src/assets/placeholderdataset.png",
+      imagem: imagem1,
       descricao: "Informações sobre doenças mais comuns em bovinos."
     },
     {
       id: 6,
       nome: "Alimentação de Aves",
-      imagem: "./src/assets/placeholderdataset.png",
+      imagem: imagem1,
       descricao: "Estudos sobre dieta e nutrição de aves."
     },
     {
       id: 7,
       nome: "Comportamento de Gatos",
-      imagem: "./src/assets/placeholderdataset.png",
+      imagem: imagem1,
       descricao: "Análise comportamental de gatos domésticos."
     },
     {
       id: 8,
       nome: "Saúde de Cavalos",
-      imagem: "./src/assets/placeholderdataset.png",
+      imagem: imagem1,
       descricao: "Informações sobre cuidados e doenças de cavalos."
     }
   ];
